@@ -1,4 +1,4 @@
-# Mini ChatBot using GPT-3.5
+# MiniChatBot using GPT-3.5
 
 This is a simple GUI-based chatbot application built using PyQt5 and OpenAI's GPT-3.5 Turbo model. The application allows users to input a message, send it to the GPT model, and receive a response that is displayed in the chat interface.
 
